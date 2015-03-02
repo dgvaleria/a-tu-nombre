@@ -1,1 +1,7 @@
 # README
+
+## Run
+
+```
+./server.sh
+```
